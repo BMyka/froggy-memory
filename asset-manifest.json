@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/froggy-memory/static/js/main.60797b17.js",
+    "static/media/shovel-headed.jpg": "/froggy-memory/static/media/shovel-headed.7db23fde5bcec0e4a30b.jpg",
+    "static/media/rarest-frog.jpg": "/froggy-memory/static/media/rarest-frog.425d042da9a6bbe65cfb.jpg",
+    "static/media/yellow-banded.jpg": "/froggy-memory/static/media/yellow-banded.168504829fc0a9649912.jpg",
+    "static/media/mossy-frog.jpg": "/froggy-memory/static/media/mossy-frog.446937c5ab67114fa0fc.jpg",
+    "static/media/madagascar-tomato.jpg": "/froggy-memory/static/media/madagascar-tomato.95bb07c28dc41a816625.jpg",
+    "static/media/green-frog.jpg": "/froggy-memory/static/media/green-frog.1060bbaf108c00aac37d.jpg",
+    "static/media/wood-frog.jpg": "/froggy-memory/static/media/wood-frog.1beda5c4b0eef94a0aaf.jpg",
+    "static/media/common-frog.jpg": "/froggy-memory/static/media/common-frog.6f569e4249f906fe20e5.jpg",
+    "static/media/Vietnamese-Mossy.jpg": "/froggy-memory/static/media/Vietnamese-Mossy.cc21f9f08ab7c0cd6e4d.jpg",
+    "static/media/american-bullfrog.jpg": "/froggy-memory/static/media/american-bullfrog.63ddcf63486c765f5186.jpg",
+    "static/media/gray-tree-frogs.jpg": "/froggy-memory/static/media/gray-tree-frogs.89f67e04d2ac74f3293a.jpg",
+    "static/media/malayan-horned.jpg": "/froggy-memory/static/media/malayan-horned.50c4f7c9a9faaf198075.jpg",
+    "static/media/golden-mantella.jpg": "/froggy-memory/static/media/golden-mantella.bc8f8f3927229d45aab6.jpg",
+    "static/media/strawberry-poison-dart-.jpg": "/froggy-memory/static/media/strawberry-poison-dart-.a95e935ce26d5525bedc.jpg",
+    "static/media/spotted-tree-frog.jpg": "/froggy-memory/static/media/spotted-tree-frog.442e6882397db05b0943.jpg",
+    "static/media/painted-reed-frog.jpg": "/froggy-memory/static/media/painted-reed-frog.edafd44e5f03e8d439f5.jpg",
+    "static/media/glass-frog.jpg": "/froggy-memory/static/media/glass-frog.8b54c7a81b93a247f565.jpg",
+    "static/media/red-backed-poison-frog.jpg": "/froggy-memory/static/media/red-backed-poison-frog.e60ffcd0d79d4fbc0f92.jpg",
+    "static/media/poison-frog.jpg": "/froggy-memory/static/media/poison-frog.094b91b1ecb2044d2788.jpg",
+    "static/media/red-eye-tree.jpg": "/froggy-memory/static/media/red-eye-tree.34060ed81a3164ce11c6.jpg",
+    "static/media/Conraua goliatch.jpg": "/froggy-memory/static/media/Conraua goliatch.072a15cddac5104d2868.jpg",
+    "static/media/black-rain.jpg": "/froggy-memory/static/media/black-rain.6d800f9140aa0c46d0ff.jpg",
+    "static/media/desert-rain-frog.jpg": "/froggy-memory/static/media/desert-rain-frog.1caf52be536ebfa1fbe5.jpg",
+    "static/media/cranwells-horned-frog.jpg": "/froggy-memory/static/media/cranwells-horned-frog.9e86dd69bd56f7710157.jpg",
+    "index.html": "/froggy-memory/index.html",
+    "main.60797b17.js.map": "/froggy-memory/static/js/main.60797b17.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.60797b17.js"
+  ]
+}
