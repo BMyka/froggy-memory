@@ -2,7 +2,7 @@
 
 Memory card game created with React.
 
-[Live Demo](https://michalosman.github.io/froggy-memory/) :point_left:
+[Live Demo](https://bmyka.github.io/froggy-memory/) :point_left:
 
 ## Getting started
 
