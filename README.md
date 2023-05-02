@@ -1,6 +1,7 @@
 # Memory card game
 
 Memory card game created with React.
+The goal of the game is to remember what cards you have already clicked on and avoid them.
 
 [Live Demo](https://bmyka.github.io/froggy-memory/) :point_left:
 
